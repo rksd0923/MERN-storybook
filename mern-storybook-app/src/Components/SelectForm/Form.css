@@ -1,0 +1,26 @@
+.form {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.medium {
+    font-size: 18px;
+    padding: 8px 2px;
+}
+
+.large {
+    font-size: 25px;
+    padding: 12px 4px;
+    font-weight: 500;
+} 
+
+.select{
+    /* background-image: url(../Icons/drop-down-arrow.svg);  */
+    background-position: 85%;
+    background-repeat: no-repeat;
+    appearance: none;
+}
+
+.selectBox {
+    background-color: white;
+    border: 2px solid black;
+} 
